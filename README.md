@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
-- 🔭 I’m currently working on a MERN Project and PHP - Laravel Projects
+- 🔭 I’m currently working on a MERN Project and PHP - Laravel Project
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 📫 How to reach me: solankirohit8703@gmail.com
